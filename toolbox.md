@@ -4,9 +4,6 @@ title: Toolbox
 permalink: /toolbox/
 ---
 
-# Toolbox
-Below are some tools I use in my personal and professional life.
-
 ## CMS
 * WordPress
 

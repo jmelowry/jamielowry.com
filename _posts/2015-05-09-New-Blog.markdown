@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Jekyll"
+date:   2015-05-09 00:45:46
+categories: post
+---
+I'm ditching my Godaddy hosted wordpress site in favor of a Jekyll static site hosted on Github.
